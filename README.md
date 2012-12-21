@@ -4,15 +4,18 @@ Authors:
   - Bernardo Pericacho Sánchez
   - Alberto Guillén Álvarez
   - Gabriel Peñas Fernández
+  
 ==============================
 Abstract:
 
     The name FRAGUEL stands for Local Environment Guides Framework (in spanish FRAmework para GUías en Entornos Locales). As the title says, the goal of this application is to make the creation of interest points and routes between those points easy, providing a friendly and dynamic environment to access to the multimedia associated to them. There are lots of applications of user location based information, but none of them can provide routes of so different kinds (cultural, spare time, etc.) and neither of them provides the creation of that information. In fact, few of them let the user add their own content into the system. FRAGUEL application can be performed in any area with 3G or WiFi (wireless Internet through a wireless network) and GPS, and provides a mechanism for creating and sharing routes and points of interest. This is possible due to the features of the latest mobile handsets based on Android operating system. Our platform provides a way to add text, images, videos and 3D models for augmented reality. With all these tools available to users, routes can be created for tourist guides, created by friends and family about spare time, for tutorials on history and culture developed by an institution.
+    
 ==============================
 Files:
   - Fraguel.apk: application ready to be installed in Android devices with Android version 2.1 or more.
   - SSII - Proyecto FRAGUEL- 2010-2011.pdf: Documentation (in spanish). It includes an User Manual.
   - fraguel (folder): test routes (xml) & 3D objects. To be stored in the root directory of your sdcard.
+  
 ==============================
 Data:
   - allroutes.xml: file stored in the server, to be compared with your phone routes in order to download new routes.
@@ -44,6 +47,7 @@ Data:
                 </point>
             </points>
           </route>  
+          
 ==============================
 Issues:
   - probably you won't be able to download new routes because our routes and 3D objets server will not work any more.
