@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+	<style name="StateTitle" parent="@android:style/TextAppearance.Medium">
+		<item name="android:textStyle">bold</item>
+		<item name="android:textColor">#00FF00</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:lines">1</item>
+        <item name="android:maxLines">1</item>        
+        <item name="android:singleLine">true</item>
+        <item name="android:scrollHorizontally">true</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:marqueeRepeatLimit">-1</item>
+        <item name="android:focusable">true</item>
+	</style>
+	<style name="ScrollText" parent="@android:style/TextAppearance.Medium">
+		<item name="android:textColor">#FFFFFF</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:focusable">true</item>
+        <item name="android:textSize">16sp</item>
+	</style>
+	<style name="ListTitle" parent="@android:style/TextAppearance.Medium">
+		<item name="android:textColor">@color/listtitle</item>
+        <item name="android:focusable">true</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+	</style>
+	<style name="ListText" parent="@android:style/TextAppearance.Medium">
+		<item name="android:textColor">@color/listtext</item>
+        <item name="android:focusable">true</item>
+	</style>
+</resources>

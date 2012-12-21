@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@+id/popuponroute"
+	android:layout_width="fill_parent" android:layout_height="30dip"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<LinearLayout android:orientation="horizontal"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:background="@drawable/popup_complete">
+
+		
+		
+		<FrameLayout android:layout_width="wrap_content"
+				android:layout_height="wrap_content">
+
+				<ImageView android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:scaleType="fitXY" android:id="@+id/popuponroute_orientation"
+					android:paddingRight="5dip" android:paddingTop="2dip" android:paddingBottom="2dip" android:paddingLeft="2dip" />
+
+		</FrameLayout>
+		
+		
+		<TextView android:id="@+id/popuponroute_texto1"
+			android:layout_width="fill_parent" android:layout_height="fill_parent"
+			android:textStyle="bold" android:gravity="center_vertical" android:paddingTop="2dip" android:paddingBottom="2dip"/>
+
+
+
+
+
+
+	</LinearLayout>
+
+</FrameLayout>

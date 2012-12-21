@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, FRAGUEL!</string>
+	<string name="app_name">FRAGUEL</string>
+	<string name="mainmenu_btn_freemode">Modo Libre</string>
+	<string name="mainmenu_btn_routemode">Modo Guiado</string>
+	<string name="mainmenu_btn_interactivemode">Modo Interactivo</string>
+	<string name="mainmenu_btn_credits">Créditos</string>
+	<string name="mainmenu_btn_manager">Gestión de rutas</string>
+	<string name="mainmenu_btn_config">Ajustes</string>
+	<string name="mainmenu_btn_exit">Salir</string>
+	
+	
+	
+	<string name="language_no_available_spanish">Lengua española no disponible</string>
+	<string name="no_tts_spanish">No es posible iniciar el texto hablado</string>
+	<string name="title_no_gps_spanish">¡Su GPS está desactivado!</string>
+	<string name="no_gps_spanish">La aplicación no funcionará correctamente si no habilita el GPS del terminal</string>
+	<string name="alert_gps_spanish"> Para el correcto funcionamiento de la aplicación debe activarlo.\n ¿Desea activarlo ahora?</string>
+	<string name="gps_cancel_button_spanish">Cancelar</string>
+	<string name="gps_enable_button_spanish">Habilitar</string>
+	<string name="accept_spanish">Aceptar</string>
+	
+	<string name="menu_menu">Volver a menu principal</string>
+	<string name="menu_config">Opciones</string>
+	<string name="menu_changemap">Cambiar mapa</string>
+	<string name="menu_route">Seleccionar ruta</string>
+	<string name="menu_exit">Salir</string>
+	
+	<string name="mapstate_menu_changemap">Cambiar mapa</string>
+	<string name="mapstate_menu_backmenu">Volver al menu</string>
+	<string name="mapstate_menu_my_position">Mi posición</string>
+	<string name="mapstate_menu_explore_map">Explorar mapa</string>
+	<string name="mapstate_menu_compass">Brújula</string>
+	
+	<string name="routemanagerstate_menu_addroute">Añadir ruta</string>
+	<string name="routemanagerstate_menu_deleteroute">Eliminar ruta</string>
+	<string name="routemanagerstate_title_routes_spanish">Rutas descargadas en su terminal</string>
+	<string name="routemanagerstate_title_points_spanish">Puntos de interés de la ruta</string>
+
+	<string name="infostate_menu_stop">Detener grabación</string>
+	<string name="infostate_menu_repeat">Repetir grabación</string>
+	<string name="infostate_menu_speechPresentation">Presentación hablada</string>
+	<string name="infostate_menu_stopPresentation">Detener Presentación</string>
+	
+	<string name="videostate_menu_downloadvideo">Guardar vídeo</string>
+	<string name="videostate_menu_backvideogallery">Volver a la galería</string>
+	
+	<string name="infopointstate_info">Información general</string>
+	<string name="infopointstate_images">Galería de imágenes</string>
+	<string name="infopointstate_videos">Galería de vídeos</string>
+	<string name="infopointstate_ar">Realidad Aumentada</string>
+	
+	
+	<string name="notification_proximityAlert_title_spanish">¡Atención! Está usted en el radio de acción de un punto de interés</string>
+	<string name="notification_proximityAlert_possitiveButton_spanish">Ver contenido</string>
+	<string name="notification_proximityAlert_negativeButton_spanish">Ignorar</string>
+	
+
+</resources>

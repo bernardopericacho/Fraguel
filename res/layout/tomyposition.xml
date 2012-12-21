@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@+id/popupposition"
+	android:layout_width="wrap_content" android:layout_height="wrap_content"
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_gravity="bottom">
+	<LinearLayout android:orientation="horizontal"
+		android:layout_width="60px" android:layout_height="60px" android:layout_gravity="bottom" android:background="@drawable/popup_complete">
+		<FrameLayout android:layout_width="fill_parent"
+					android:layout_height="fill_parent" android:layout_weight="1" android:layout_gravity="bottom">
+		<Button android:id="@+id/btn_return_to_position"
+				android:layout_width="fill_parent" android:layout_height="fill_parent" 
+				android:layout_gravity="bottom" android:background="@drawable/my_position">
+		</Button>
+		</FrameLayout>
+	</LinearLayout>
+</FrameLayout>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<route id="1" version="1.0">
+	<name>Un viernes por Moncloa</name>
+	<description>Un viernes, tras toda la semana sólo queda divertirse por Madrid. Este es el recorrido de aquel día, para aquel que aún no tenga plan... </description>
+	<icon>http://www.maxima.fm/media/200812/02/20081202_2_maximafm.jpg</icon>
+
+	<points>
+		<point id="0">
+			<coords x="40.4327106" y="-3.7178161" />
+			<title>Manolo Bar</title>
+			<pointdescription>El emblemático bar Manolo, un sitio perfecto donde tomar unas cañas con los amigos.</pointdescription>
+			<pointicon>http://t1.gstatic.com/images?q=tbn:ANd9GcQEZIEBDSbJgtcDSYxCx8a1PLHl67jK86m7hZNdEDbbOE2mBTHW_g</pointicon>
+			<images>
+				<image url="http://t1.gstatic.com/images?q=tbn:ANd9GcQEZIEBDSbJgtcDSYxCx8a1PLHl67jK86m7hZNdEDbbOE2mBTHW_g">Fotografía del logotigo de Manolo Bar</image>
+			</images>
+			<video>http://www.youtube.com/watch?v=3CZ-k3qyk2A</video>
+			<ar lat="0.0" long="0.0" alt="0.0" file=""></ar>
+		</point>
+		<point id="1">
+			<coords x="40.4352261" y="-3.7183039" />
+			<title>Van Gogh Cafe</title>
+			<pointdescription>Por las calles perpendiculares a la de la Princesa, entran y salen de su barrio los vecinos y los comerciantes de Chamberí, muchos profesionales de la abogacía y el consulting, odontologos y libreros, pero sobre todo…estudiantes. Estas calles son el paraíso de las fotocopias de dia y de “la marcha” de noche. En medio de todo este trasiego aparece Van Gogh Café como un oasis para todos los públicos. Un lugar amplio y coqueto donde coincidir para desayunar, tomar unas cañas, almorzar o cenar en una atmósfera cordial e informal.</pointdescription>
+			<pointicon>http://media.salir-static.net/_images_/verticales/8/d/1/1/39004-van_gogh_cafe_pv.jpg</pointicon>
+			<images>
+				<image url="http://media.salir-static.net/_images_/verticales/8/d/1/1/39004-van_gogh_cafe_pv.jpg">Logotipo del bar-café Van Gogh</image>
+			</images>
+			<video>http://www.youtube.com/watch?v=cxLG2wtE7TM</video>
+			<ar lat="0.0" long="0.0" alt="0.0" file=""></ar>
+		</point>
+		<point id="2">
+			<coords x="40.4353453" y="-3.7163066" />
+			<title>Coyote Lounge</title>
+			<pointdescription>En el espacio para eventos Coyote Lounge cuenta con dos ambientes perfectamente diferenciados, aforo para 600 personas, dos zonas VIP, aparcacoches, gogos, audiovisuales, lásers, escenario... En definitiva, todo lo que necesitas para celebrar la perfecta fiesta corporativa, convención, presentación de producto, rueda de prensa y todo tipo de eventos empresariales. La sala esta totalmente reformada, con nuevo mobiliario y decoración donde disfrutar de un ambiente único y público exclusivo en pleno centro de la capital.</pointdescription>
+			<pointicon>http://ayudawordpress.com/wp-content/uploads/2008/08/imagen.jpg</pointicon>
+			<images>
+				<image url="http://ayudawordpress.com/wp-content/uploads/2008/08/imagen.jpg">Logotipo del bar Coyote Lounge</image>
+			</images>
+			<video>http://www.youtube.com/watch?v=cxLG2wtE7TM</video>
+			<ar lat="0.0" long="0.0" alt="0.0" file=""></ar>
+		</point>
+		<point id="3">
+			<coords x="40.4358828" y="-3.7165135" />
+			<title>Penélope</title>
+			<pointdescription>La discoteca Penélope, una de las más prestigiosas de la capital de España y regentada por un ambiente muy selecto y cosmopolita.</pointdescription>
+			<pointicon>http://www.grupoparty.es/wp-content/uploads/2009/12/penelope-moncloa.jpg</pointicon>
+			<images>
+				<image url="http://www.grupoparty.es/wp-content/uploads/2009/12/penelope-moncloa.jpg">Logotipo de la discoteca Penélope</image>
+				<image url="http://www.grupoparty.es/wp-content/uploads/2009/12/penelope-sala.jpg">Sala principal de la discoteca Penélope</image>
+			</images>
+			<video>http://www.youtube.com/watch?v=G5rybIqeVhc</video>
+			<ar lat="0.0" long="0.0" alt="0.0" file=""></ar>
+		</point>
+		<point id="4">
+			<coords x="40.4361524" y="-3.7164899" />
+			<title>Discoteca Inn</title>
+			<pointdescription>La discoteca Inn es una de las más grandes discotecas madrileñas. Cientos de jóvenes entre 18 y 25 años llenan la discoteca cada fin de semana, donde se puede disfrutar de la música comercial más actual y en fiestas señaladas de pretigiosos pinchadiscos a nivel mundial.</pointdescription>
+			<pointicon>http://ayudawordpress.com/wp-content/uploads/2008/08/imagen.jpg</pointicon>
+			<images>
+				<image url="http://ayudawordpress.com/wp-content/uploads/2008/08/imagen.jpg">Logotipo de la discoteca Inn de Moncloa</image>
+			</images>
+			<video>http://www.youtube.com/watch?v=wF5tNogdBXc</video>
+			<ar lat="0.0" long="0.0" alt="0.0" file=""></ar>
+		</point>
+		
+	
+	</points>
+
+
+</route>

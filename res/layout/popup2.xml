@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@+id/popupPIonroute" android:layout_width="fill_parent"
+	android:layout_height="wrap_content" xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<LinearLayout android:orientation="vertical"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:background="@drawable/popup_complete">
+
+		<TextView android:id="@+id/popupPIonroute_texto1"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:textStyle="bold" android:gravity="left" android:paddingTop="2dip" />
+
+
+		<LinearLayout android:id="@+id/popupPIonroute_container"
+			android:orientation="horizontal" android:layout_width="fill_parent"
+			android:layout_height="wrap_content">
+
+
+
+			<FrameLayout android:layout_width="wrap_content"
+				android:layout_height="wrap_content">
+
+				<ImageView android:layout_width="wrap_content"
+					android:layout_height="wrap_content" android:id="@+id/popupPIonroute_imagen2"
+					android:paddingLeft="5dip" android:paddingTop="5dip" />
+
+			</FrameLayout>
+
+
+			<LinearLayout android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:orientation="horizontal"
+				android:layout_gravity="center" android:gravity="center"
+				>
+
+				<FrameLayout android:layout_width="fill_parent"
+					android:layout_height="wrap_content" >
+					<Button android:id="@+id/btn_popupPIonroute_moreinfo"
+						android:text="Ver más información..."
+						android:layout_width="fill_parent" 
+						android:layout_height="wrap_content" android:paddingLeft="15dip"
+						android:paddingTop="5dip" android:layout_gravity="center" />
+				</FrameLayout>
+				
+
+			</LinearLayout>
+
+
+		</LinearLayout>
+
+
+	</LinearLayout>
+
+</FrameLayout>

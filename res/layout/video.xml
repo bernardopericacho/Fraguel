@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_height="fill_parent" 
+	android:paddingLeft="2px" android:paddingRight="2px"
+	android:paddingTop="2px" android:paddingBottom="2px"
+	android:layout_width="fill_parent" android:orientation="horizontal"
+        >
+   
+    <VideoView android:id="@+id/surface_view"  android:layout_gravity="center_horizontal"
+                 android:layout_width="fill_parent"
+                 android:layout_height="fill_parent">
+    </VideoView>
+  
+</LinearLayout>
+

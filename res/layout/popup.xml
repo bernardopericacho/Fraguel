@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@+id/popupPI" android:layout_width="fill_parent"
+	android:layout_height="wrap_content" xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<LinearLayout android:orientation="horizontal"
+		android:layout_width="fill_parent" android:layout_height="wrap_content"
+		android:background="@drawable/popup_complete">
+
+		
+		<FrameLayout android:layout_width="wrap_content"
+				android:layout_height="wrap_content">
+
+				<ImageView android:layout_width="70dip"
+					android:layout_height="60dip" android:id="@+id/popupPI_imagen2"
+					android:paddingLeft="5dip" android:paddingTop="5dip" />
+
+		</FrameLayout>
+
+		<LinearLayout android:id="@+id/popupPI_container"
+			android:orientation="vertical" android:layout_width="fill_parent"
+			android:layout_height="wrap_content">
+
+
+			<TextView android:id="@+id/popupPI_texto1"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"
+			android:textStyle="bold" android:gravity="center" android:paddingTop="2dip" />
+			
+
+			<LinearLayout android:layout_width="fill_parent"
+				android:layout_height="wrap_content" android:orientation="horizontal"
+				android:layout_gravity="center" android:gravity="center"
+				android:layout_weight="1">
+
+				<FrameLayout android:layout_width="fill_parent"
+					android:layout_height="wrap_content" android:layout_weight="1">
+					<Button android:id="@+id/btn_popupPI_info"
+						android:layout_width="wrap_content" android:background="@drawable/informacion_small"
+						android:layout_height="wrap_content" android:paddingLeft="0dip"
+						android:paddingTop="5dip" android:layout_gravity="center" />
+				</FrameLayout>
+
+				<FrameLayout android:layout_width="fill_parent"
+					android:layout_height="wrap_content" android:layout_weight="1">
+					<Button android:id="@+id/btn_popupPI_photo"
+						android:layout_width="wrap_content" android:layout_height="wrap_content"
+						android:background="@drawable/galeria_fotos_small" android:paddingLeft="0dip"
+						android:paddingTop="5dip" android:layout_gravity="center" />
+				</FrameLayout>
+
+				<FrameLayout android:layout_width="fill_parent"
+					android:layout_height="wrap_content" android:layout_weight="1">
+					<Button android:id="@+id/btn_popupPI_video"
+						android:layout_width="wrap_content" android:layout_height="wrap_content"
+						android:background="@drawable/galeria_video_small" android:paddingLeft="0dip"
+						android:paddingTop="5dip" android:layout_gravity="center" />
+				</FrameLayout>
+
+				<FrameLayout android:layout_width="fill_parent"
+					android:layout_height="wrap_content" android:layout_weight="1">
+					<Button android:id="@+id/btn_popupPI_ar"
+						android:layout_width="wrap_content" android:layout_height="wrap_content"
+						android:background="@drawable/realidad_aumentada_small" android:paddingLeft="0dip"
+						android:paddingTop="5dip" android:layout_gravity="center" />
+				</FrameLayout>
+
+			</LinearLayout>
+
+
+		</LinearLayout>
+
+
+	</LinearLayout>
+
+</FrameLayout>
